@@ -5,8 +5,8 @@ A simple Windows utility that prevents your computer from locking or going to sl
 ## Download & Install
 
 1. **Download** the latest version:  
-   [MouseMover.exe]  
-   *(Check "Releases" section for latest version)*
+   [Mover.exe]  
+   
 
 2. **Unblock** the file (right-click -> Properties -> Check "Unblock")
 
@@ -15,11 +15,10 @@ A simple Windows utility that prevents your computer from locking or going to sl
 ## How to Use
 
 1. **Launch** the application
-   ![Screenshot of application window with Start/Stop buttons](screenshot.png)
 
 2. Click **"Start Script"** to:
    - Move mouse cursor randomly
-   - Flash Caps Lock light (invisible to you)
+   - Flash Caps Lock light
    - Keep computer fully active
 
 3. Click **"Stop Script"** when done
