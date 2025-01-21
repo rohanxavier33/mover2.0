@@ -16,7 +16,7 @@ A simple Windows application that prevents your computer from going to sleep by 
 ## Installation
 
 ### Direct Download (For End Users)
-1. Download the latest `MouseMover.exe` from [Releases](#)
+1. Download the latest `Mover.exe`
 2. Right-click the executable -> Properties -> Check "Unblock"
 3. Double-click to run
 
