@@ -17,8 +17,8 @@ A simple Windows application that prevents your computer from going to sleep by 
 
 ### Direct Download (For End Users)
 1. Download the latest `Mover.exe`
-2. Right-click the executable -> Properties -> Check "Unblock"
-3. Double-click to run
+2. Double Click to Run
+3. May need to unblock or run as administrator
 
 ### Requirements
 - Windows 8.1 or newer
