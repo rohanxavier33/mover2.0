@@ -30,7 +30,7 @@ exe = EXE(
     a.binaries,
     a.zipfiles,
     a.datas,
-    name='MouseMover',
+    name='Mover',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

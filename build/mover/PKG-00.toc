@@ -1,4 +1,4 @@
-('C:\\Users\\RohanGupta\\Documents\\mover2.0\\build\\mover\\MouseMover.pkg',
+('C:\\Users\\RohanGupta\\Documents\\mover2.0\\build\\mover\\Mover.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
