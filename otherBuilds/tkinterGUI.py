@@ -3,6 +3,7 @@ from tkinter import ttk
 import threading
 import time
 import pyautogui
+import os
 from random import randint
 
 
@@ -140,7 +141,7 @@ class MouseMoverApp:
 
         # If we run out of time while still running => time is up
         if total_seconds == 0 and self.running:
-            pyautogui.hotkey('win', 'l')
+            os.system("rundll32.exe user32.dll,LockWorkStation")  # 🔒
             self.stop_script()
 
     def stop_script(self):
