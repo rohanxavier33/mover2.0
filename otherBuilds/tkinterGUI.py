@@ -140,8 +140,7 @@ class MouseMoverApp:
 
         # If we run out of time while still running => time is up
         if total_seconds == 0 and self.running:
-            pyautogui.keyDown('win')
-            pyautogui.press('l')
+            pyautogui.hotkey('win', 'l')
             self.stop_script()
 
     def stop_script(self):
